@@ -18,3 +18,13 @@ All notable changes to this project will be documented in this file. See [standa
 
 * dev-server (hot-reload) and autoprefixer ([680866e](https://github.com/GPortfolio/GPortfolio/commit/680866e))
 
+
+
+### [3.3.1](https://github.com/GPortfolio/GPortfolio/compare/v3.3.0...v3.3.1) (2019-09-24)
+
+
+
+## [3.3.0](https://github.com/GPortfolio/GPortfolio/compare/v3.2.0...v3.3.0) (2019-09-22)
+
+
+### Features
